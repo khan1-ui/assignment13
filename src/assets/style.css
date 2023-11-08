@@ -1,0 +1,126 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.nav-bar{
+    background-color: #333;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type:none;
+    border-radius: 5px;
+    margin-right: 25px;
+    margin-top: 20px;
+    z-index: 1000;
+   float:right;
+}
+.navbar a {
+    color: #ffffff; 
+    font-size: 20px;
+    padding: 12px 26px;
+    text-decoration: none;
+   
+    
+   
+  }
+  .img{
+  background-color: black;
+  border-radius: 40px;
+  float: left;
+  margin-left: 50px;
+  width: 82px;
+  height: 75px;
+  padding: 3px;
+  margin-top: 15px;
+  }
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+    border-radius: 4px;
+  }
+  .input-search{
+    height: 27px;
+  width: 160px;
+  border-radius: 4px;
+  }
+  .footer-info{
+    margin: 0px;
+    padding: 0px;
+    background-color: #333;
+    color: #ffffff;
+    height: 300px;
+    width: auto;
+    margin-top: 50px;
+   
+    
+    
+  }
+  .f-div1{
+float: left;
+  }
+  .fdiv2{
+    margin-left: 220px;
+    float: left;
+  }
+  .f-div3{
+    margin-left: 1067px;
+  }
+  .f-div4{
+    margin-top: 97px;
+  text-align: center;
+  padding: 30px;
+  }
+  .div-ul1{
+    list-style-type:none;
+    margin-left: 80px;
+    
+    
+  }
+  .div-ul2{
+    list-style-type:none;
+    margin-left: 80px;
+  }
+  .div-ul1 li:hover {
+    background-color: #ddd;
+    color: black;
+    border-radius: 4px;
+   
+  }
+  .div-ul2 li:hover {
+    background-color: #ddd;
+    color: black;
+    border-radius: 4px;
+   
+  }
+  .f-div3 li:hover {
+    background-color: #ddd;
+    color: black;
+    border-radius: 4px;
+   
+  }
+
+.div-component{
+  margin-top: 100px;
+  text-align: center;
+}
+.form{
+  background-color: aqua;
+  border: 2px solid;
+  width: 750px;
+  height: 600px;
+  margin-left: 284px;
+}
+.form-btn{
+  height: 75px;
+  width: 150px;
+  text-align: center;
+  color: #110101;
+  background-color: rgb(54, 119, 1);
+  border-radius: 15px;
+  font-size: 25px;
+}
+.useRefChange{
+  background-color: #110101;
+  color: #ffffff;
+}
